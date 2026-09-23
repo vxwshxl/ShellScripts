@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6f3f,100:4EAA25&height=200&section=header&text=ShellScripts&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Operating%20Systems%20Lab%20%E2%80%A2%20Bash%20%26%20Zsh&descAlignY=60&descSize=18" width="100%" alt="ShellScripts banner"/>
+<img src="assets/banner.svg" width="100%" alt="ShellScripts banner"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="110" alt="Bash logo"/>
 
