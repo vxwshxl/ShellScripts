@@ -152,6 +152,7 @@ Average Turnaround Time = 9.66
 | 🔍 | [`prime.sh`](prime.sh) | Prime number check | `./prime.sh` |
 | ❗ | [`factorial.sh`](factorial.sh) | Factorial of a number | `./factorial.sh` |
 | 🌀 | [`fibonacci.sh`](fibonacci.sh) | Fibonacci series up to 500 | `./fibonacci.sh` |
+| 🔺 | [`pascal.sh`](pascal.sh) | Pascal's triangle for *n* terms | `./pascal.sh` |
 | 🤝 | [`gcd.sh`](gcd.sh) | GCD of two numbers (Euclid) | `./gcd.sh` |
 | 🔄 | [`reverse.sh`](reverse.sh) | Reverses the digits of a number | `./reverse.sh` |
 | 💰 | [`si.sh`](si.sh) | Simple interest and total amount | `./si.sh` |
