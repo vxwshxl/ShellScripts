@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/vxwshxl/ShellScripts">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=4EAA25&center=true&vCenter=true&width=520&lines=%24+.%2F1_add.sh;%24+.%2F7_prime.sh+%E2%9C%94;%24+gcc+15_fcfs.c+-o+15_fcfs;%24+.%2F28_pascal_triangle.sh;%24+.%2F30_linux_commands.sh" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=4EAA25&center=true&vCenter=true&width=520&lines=%24+.%2F01_add.sh;%24+.%2F07_prime.sh+%E2%9C%94;%24+gcc+15_fcfs.c+-o+15_fcfs;%24+.%2F28_pascal_triangle.sh;%24+.%2F30_linux_commands.sh" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -42,7 +42,7 @@ cd ShellScripts
 chmod +x *.sh
 
 # 3. Run any shell script
-./7_prime.sh
+./07_prime.sh
 
 # 4. Compile and run a C program (lessons 15 and 16)
 gcc 15_fcfs.c -o 15_fcfs
@@ -61,15 +61,15 @@ gcc 15_fcfs.c -o 15_fcfs
 
 | # | | File | What it does | Run |
 |:--:|:--:|:--|:--|:--|
-| [1](#lesson-1) | ➕ | [`1_add.sh`](1_add.sh) | Add two numbers | `./1_add.sh` |
-| [2](#lesson-2) | 💰 | [`2_simple_interest.sh`](2_simple_interest.sh) | Simple interest and total amount | `./2_simple_interest.sh` |
-| [3](#lesson-3) | ⚖️ | [`3_odd_even.sh`](3_odd_even.sh) | Odd or even check | `./3_odd_even.sh` |
-| [4](#lesson-4) | ❗ | [`4_factorial.sh`](4_factorial.sh) | Factorial of a number | `./4_factorial.sh` |
-| [5](#lesson-5) | 🔄 | [`5_reverse.sh`](5_reverse.sh) | Reverse of a number | `./5_reverse.sh` |
-| [6](#lesson-6) | 🔢 | [`6_sum_of_digits.sh`](6_sum_of_digits.sh) | Sum of the digits of a number | `./6_sum_of_digits.sh` |
-| [7](#lesson-7) | 🔍 | [`7_prime.sh`](7_prime.sh) | Prime number check | `./7_prime.sh` |
-| [8](#lesson-8) | 🌀 | [`8_fibonacci.sh`](8_fibonacci.sh) | Fibonacci series of *n* terms | `./8_fibonacci.sh` |
-| [9](#lesson-9) | ⭕ | [`9_area_of_circle.sh`](9_area_of_circle.sh) | Area of a circle | `./9_area_of_circle.sh` |
+| [1](#lesson-1) | ➕ | [`01_add.sh`](01_add.sh) | Add two numbers | `./01_add.sh` |
+| [2](#lesson-2) | 💰 | [`02_simple_interest.sh`](02_simple_interest.sh) | Simple interest and total amount | `./02_simple_interest.sh` |
+| [3](#lesson-3) | ⚖️ | [`03_odd_even.sh`](03_odd_even.sh) | Odd or even check | `./03_odd_even.sh` |
+| [4](#lesson-4) | ❗ | [`04_factorial.sh`](04_factorial.sh) | Factorial of a number | `./04_factorial.sh` |
+| [5](#lesson-5) | 🔄 | [`05_reverse.sh`](05_reverse.sh) | Reverse of a number | `./05_reverse.sh` |
+| [6](#lesson-6) | 🔢 | [`06_sum_of_digits.sh`](06_sum_of_digits.sh) | Sum of the digits of a number | `./06_sum_of_digits.sh` |
+| [7](#lesson-7) | 🔍 | [`07_prime.sh`](07_prime.sh) | Prime number check | `./07_prime.sh` |
+| [8](#lesson-8) | 🌀 | [`08_fibonacci.sh`](08_fibonacci.sh) | Fibonacci series of *n* terms | `./08_fibonacci.sh` |
+| [9](#lesson-9) | ⭕ | [`09_area_of_circle.sh`](09_area_of_circle.sh) | Area of a circle | `./09_area_of_circle.sh` |
 | [10](#lesson-10) | 🤝 | [`10_gcd.sh`](10_gcd.sh) | GCD of two numbers (Euclid) | `./10_gcd.sh` |
 | [11](#lesson-11) | 3️⃣ | [`11_sum_of_3_digits.sh`](11_sum_of_3_digits.sh) | Sum of the digits of a 3 digit number | `./11_sum_of_3_digits.sh` |
 | [12](#lesson-12) | ➗ | [`12_sum_odd_even.sh`](12_sum_odd_even.sh) | Sum of odd and even numbers from 1 to 50 | `./12_sum_odd_even.sh` |
@@ -100,7 +100,7 @@ Each output below is a real run of the program. What you type (the input) appear
 
 <a id="lesson-1"></a>
 <details>
-<summary><b>➕ Lesson 1: <code>1_add.sh</code></b> &nbsp;·&nbsp; input: 12, 8</summary>
+<summary><b>➕ Lesson 1: <code>01_add.sh</code></b> &nbsp;·&nbsp; input: 12, 8</summary>
 
 ```text
 Enter the first number:
@@ -114,7 +114,7 @@ Sum of 12 and 8 = 20
 
 <a id="lesson-2"></a>
 <details>
-<summary><b>💰 Lesson 2: <code>2_simple_interest.sh</code></b> &nbsp;·&nbsp; input: P=5000, R=8, T=3</summary>
+<summary><b>💰 Lesson 2: <code>02_simple_interest.sh</code></b> &nbsp;·&nbsp; input: P=5000, R=8, T=3</summary>
 
 ```text
 Enter the principal amount:
@@ -131,7 +131,7 @@ Total Amount    = 6200.00
 
 <a id="lesson-3"></a>
 <details>
-<summary><b>⚖️ Lesson 3: <code>3_odd_even.sh</code></b> &nbsp;·&nbsp; input: 7</summary>
+<summary><b>⚖️ Lesson 3: <code>03_odd_even.sh</code></b> &nbsp;·&nbsp; input: 7</summary>
 
 ```text
 Enter a number:
@@ -143,7 +143,7 @@ Enter a number:
 
 <a id="lesson-4"></a>
 <details>
-<summary><b>❗ Lesson 4: <code>4_factorial.sh</code></b> &nbsp;·&nbsp; input: 5</summary>
+<summary><b>❗ Lesson 4: <code>04_factorial.sh</code></b> &nbsp;·&nbsp; input: 5</summary>
 
 ```text
 Enter a number:
@@ -155,7 +155,7 @@ Factorial of 5 = 120
 
 <a id="lesson-5"></a>
 <details>
-<summary><b>🔄 Lesson 5: <code>5_reverse.sh</code></b> &nbsp;·&nbsp; input: 12345</summary>
+<summary><b>🔄 Lesson 5: <code>05_reverse.sh</code></b> &nbsp;·&nbsp; input: 12345</summary>
 
 ```text
 Enter a number:
@@ -167,7 +167,7 @@ Reverse of 12345 = 54321
 
 <a id="lesson-6"></a>
 <details>
-<summary><b>🔢 Lesson 6: <code>6_sum_of_digits.sh</code></b> &nbsp;·&nbsp; input: 4567</summary>
+<summary><b>🔢 Lesson 6: <code>06_sum_of_digits.sh</code></b> &nbsp;·&nbsp; input: 4567</summary>
 
 ```text
 Enter a number:
@@ -179,7 +179,7 @@ Sum of digits of 4567 = 22
 
 <a id="lesson-7"></a>
 <details>
-<summary><b>🔍 Lesson 7: <code>7_prime.sh</code></b> &nbsp;·&nbsp; input: 29</summary>
+<summary><b>🔍 Lesson 7: <code>07_prime.sh</code></b> &nbsp;·&nbsp; input: 29</summary>
 
 ```text
 Enter a number:
@@ -191,7 +191,7 @@ Enter a number:
 
 <a id="lesson-8"></a>
 <details>
-<summary><b>🌀 Lesson 8: <code>8_fibonacci.sh</code></b> &nbsp;·&nbsp; input: 10</summary>
+<summary><b>🌀 Lesson 8: <code>08_fibonacci.sh</code></b> &nbsp;·&nbsp; input: 10</summary>
 
 ```text
 Enter the number of terms:
@@ -204,7 +204,7 @@ Fibonacci Series of 10 terms:
 
 <a id="lesson-9"></a>
 <details>
-<summary><b>⭕ Lesson 9: <code>9_area_of_circle.sh</code></b> &nbsp;·&nbsp; input: r = 7</summary>
+<summary><b>⭕ Lesson 9: <code>09_area_of_circle.sh</code></b> &nbsp;·&nbsp; input: r = 7</summary>
 
 ```text
 Enter the radius of the circle:
@@ -609,7 +609,7 @@ oclock: not available here (install x11-apps and run inside X11)
 | `bc: command not found` (lessons 2, 9, 14) | Install it: `sudo apt install bc` on Linux (macOS already has it) |
 | `gcc: command not found` (lessons 15, 16) | Linux: `sudo apt install gcc` &nbsp;•&nbsp; macOS: `xcode-select --install` |
 | `xclock: not available here` (lesson 30) | Install `x11-apps` and run inside an X11 session |
-| Want to feed input without typing | Pipe it in: `printf '7\n' \| ./7_prime.sh` |
+| Want to feed input without typing | Pipe it in: `printf '7\n' \| ./07_prime.sh` |
 
 ---
 
